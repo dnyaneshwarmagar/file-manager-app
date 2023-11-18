@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #e8b4b4;
+    overflow: hidden;
+    color:white;
+    margin: 0;
+}
+
+.navbar li {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.link{
+    text-decoration: none;
+}
